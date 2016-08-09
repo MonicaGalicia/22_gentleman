@@ -1,0 +1,129 @@
+
+#fondoblack{
+	background-color:black;
+	height:80px;
+}
+span{
+	font-family:arial;
+	font-size:35px;
+}
+
+#Gentleman{
+	margin:15px 150px;
+}
+.menu{
+	color:white;
+	font-size:20px;
+	margin-left:20px;
+	margin-top:100px;
+
+}
+#fondogris{
+	background-color:grey;
+}
+
+#fondoblanco{
+	background-color:white;
+	height:2200px;
+}
+li{
+	display:inline-block;
+	text-decoration:none;
+	list-style:none;
+	margin-top:20px;
+}
+
+
+.menu:hover{
+	color:pink;
+}
+
+a{
+	text-decoration:none;
+}
+
+#headerimg{
+	width:600px;
+	height:auto;
+	margin:50px 40px;
+
+}
+.margin{
+	margin-left:40px;
+	margin-top:50px;
+	
+}
+
+.justify{
+	text-align:justify;
+}
+
+
+.readmore{
+	border-radius:5px;
+	width:100px;
+	height:30px;
+	background-color:grey;
+	color:white;
+	display:block;
+	margin:auto;
+	border-color:grey;
+	
+}
+
+#footer{
+	background-color:black;
+	height:300px;
+}
+
+hr{
+	background-color:black;
+}
+
+.work{
+	color:grey;
+	margin-left:5px;
+	margin-left:40px;
+}
+
+.work:hover{
+	color:black;
+}
+
+button:hover{
+	cursor:pointer;
+}
+
+.imgprojects{
+	margin-top:65px;
+	width:500px;
+	margin-left:40px;
+}
+
+.margin40{
+	margin-left:40px;
+}
+
+.bottom{
+	margin-bottom:70px;
+}
+
+
+#follow{
+	width:60px;
+	background-color:grey;
+}
+
+.font{
+	
+	font-family:cursive;
+
+}
+
+#pink{
+	color:pink;
+}
+
+.top{
+	margin-top:100px;
+}
